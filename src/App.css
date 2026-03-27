@@ -3,3 +3,20 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+button {
+  padding: 5px 12px;
+  font-size: 13px;
+  background-color: #96BF8A;
+  color: #000;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s ease-in-out;
+  font-weight: 500;
+}
+
+button:hover {
+  background-color: #C8E0C4;
+  transform: scale(1.05);
+}
